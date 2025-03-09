@@ -1,0 +1,1 @@
+{"name":"Local: j_pal","url":"e:\\cse\\lab\\sp_lab_ramadan\\j_pal.cpp","tests":[{"id":1741510559802,"input":"abba\n","output":"YES"},{"id":1741510565880,"input":"icpcassiut\n","output":"NO"},{"id":1741510571616,"input":"mam\n","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\cse\\lab\\sp_lab_ramadan\\j_pal.cpp","group":"local","local":true}

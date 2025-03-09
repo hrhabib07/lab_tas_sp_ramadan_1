@@ -1,0 +1,1 @@
+{"name":"Local: p","url":"e:\\cse\\lab\\sp_lab_ramadan\\p.cpp","tests":[{"id":1741513837561,"input":"LEVEL\nONE\n","output":"5 3\nLEVEL ONE\n"},{"id":1741513847781,"input":"Programming\ncontest\n","output":"11 7\nProgramming contest\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\cse\\lab\\sp_lab_ramadan\\p.cpp","group":"local","local":true}

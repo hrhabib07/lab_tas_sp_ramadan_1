@@ -1,0 +1,1 @@
+{"name":"Local: t_mult","url":"e:\\cse\\lab\\sp_lab_ramadan\\t_mult.cpp","tests":[{"id":1741514892428,"input":"5 7 2 4\n","output":"80"},{"id":1741514900476,"input":"3 9 9 9\n","output":"87"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\cse\\lab\\sp_lab_ramadan\\t_mult.cpp","group":"local","local":true}

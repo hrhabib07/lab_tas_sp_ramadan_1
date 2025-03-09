@@ -1,0 +1,1 @@
+{"name":"Local: i_max","url":"e:\\cse\\lab\\sp_lab_ramadan\\i_max.cpp","tests":[{"id":1741510358007,"input":"5\n1 8 5 7 5\n","output":"8\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\cse\\lab\\sp_lab_ramadan\\i_max.cpp","group":"local","local":true}

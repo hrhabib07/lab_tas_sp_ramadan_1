@@ -1,0 +1,1 @@
+{"name":"Local: K_con","url":"e:\\cse\\lab\\sp_lab_ramadan\\K_con.cpp","tests":[{"id":1741511008153,"input":"happy,NewYear,enjoy\n","output":"HAPPY nEWyEAR ENJOY\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\cse\\lab\\sp_lab_ramadan\\K_con.cpp","group":"local","local":true}

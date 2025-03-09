@@ -1,0 +1,1 @@
+{"name":"Local: g_replacement","url":"e:\\cse\\lab\\sp_lab_ramadan\\g_replacement.cpp","tests":[{"id":1741509663932,"input":"5\n1 -2 0 3 4\n","output":"1 2 0 1 1 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\cse\\lab\\sp_lab_ramadan\\g_replacement.cpp","group":"local","local":true}

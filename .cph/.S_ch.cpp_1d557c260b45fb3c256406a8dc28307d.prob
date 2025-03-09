@@ -1,0 +1,1 @@
+{"name":"Local: S_ch","url":"e:\\cse\\lab\\sp_lab_ramadan\\S_ch.cpp","tests":[{"id":1741514546447,"input":"9","output":"IS DIGIT\n"},{"id":1741514559047,"input":"a\n","output":"ALPHA\nIS SMALL\n"},{"id":1741514707777,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\cse\\lab\\sp_lab_ramadan\\S_ch.cpp","group":"local","local":true}
